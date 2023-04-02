@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-ouifianas/static/css/main.107763c6.css",
+    "main.js": "/portfolio-ouifianas/static/js/main.c9c43278.js",
+    "static/js/787.bc98af0e.chunk.js": "/portfolio-ouifianas/static/js/787.bc98af0e.chunk.js",
+    "index.html": "/portfolio-ouifianas/index.html",
+    "static/media/logo.svg": "/portfolio-ouifianas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.107763c6.css.map": "/portfolio-ouifianas/static/css/main.107763c6.css.map",
+    "main.c9c43278.js.map": "/portfolio-ouifianas/static/js/main.c9c43278.js.map",
+    "787.bc98af0e.chunk.js.map": "/portfolio-ouifianas/static/js/787.bc98af0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.107763c6.css",
+    "static/js/main.c9c43278.js"
+  ]
+}
